@@ -29,5 +29,6 @@ This project rebuilds the MNNIT website UI using modern web technologies to ensu
 
 ---
 
-## 📁 Folder Structure
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/5e332643-3c65-4b43-82e2-60b17f9b78b1)
 
